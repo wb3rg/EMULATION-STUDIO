@@ -1,0 +1,125 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs26\fsmilli13333 \cf0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 <?xml version="1.0" encoding="UTF-8"?>\
+<x:xmpmeta xmlns:x="adobe:ns:meta/">\
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">\
+  <rdf:Description rdf:about=""\
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/">\
+   <crs:Version>15.4</crs:Version>\
+   <crs:ProcessVersion>11.0</crs:ProcessVersion>\
+   <crs:WhiteBalance>As Shot</crs:WhiteBalance>\
+   <crs:Temperature>5500</crs:Temperature>\
+   <crs:Tint>+5</crs:Tint>\
+   <crs:Exposure>0.00</crs:Exposure>\
+   <crs:Contrast>+10</crs:Contrast>\
+   <crs:Highlights>-40</crs:Highlights>\
+   <crs:Shadows>+30</crs:Shadows>\
+   <crs:Whites>+20</crs:Whites>\
+   <crs:Blacks>-15</crs:Blacks>\
+   <crs:Texture>0</crs:Texture>\
+   <crs:Clarity>+15</crs:Clarity>\
+   <crs:Dehaze>+5</crs:Dehaze>\
+   <crs:Vibrance>+15</crs:Vibrance>\
+   <crs:Saturation>+10</crs:Saturation>\
+   <crs:SharpenRadius>+0.8</crs:SharpenRadius>\
+   <crs:SharpenDetail>+20</crs:SharpenDetail>\
+   <crs:SharpenEdge>+10</crs:SharpenEdge>\
+   <crs:LuminanceSmoothing>0</crs:LuminanceSmoothing>\
+   <crs:ColorNoiseReduction>0</crs:ColorNoiseReduction>\
+   <crs:VignetteAmount>-10</crs:VignetteAmount>\
+   <crs:GrainAmount>10</crs:GrainAmount>\
+   <crs:GrainSize>25</crs:GrainSize>\
+   <crs:GrainFrequency>50</crs:GrainFrequency>\
+   <crs:ColorNoiseReductionRoughness>0</crs:ColorNoiseReductionRoughness>\
+   <crs:CalibrationIlluminant1>Daylight</crs:CalibrationIlluminant1>\
+   <crs:ShadowTint>+5</crs:ShadowTint>\
+   <crs:RedPrimaryHue>0</crs:RedPrimaryHue>\
+   <crs:RedPrimarySaturation>0</crs:RedPrimarySaturation>\
+   <crs:GreenPrimaryHue>0</crs:GreenPrimaryHue>\
+   <crs:GreenPrimarySaturation>0</crs:GreenPrimarySaturation>\
+   <crs:BluePrimaryHue>0</crs:BluePrimaryHue>\
+   <crs:BluePrimarySaturation>0</crs:BluePrimarySaturation>\
+   <crs:HueAdjustmentRed>0</crs:HueAdjustmentRed>\
+   <crs:HueAdjustmentOrange>+5</crs:HueAdjustmentOrange>\
+   <crs:HueAdjustmentAqua>-5</crs:HueAdjustmentAqua>\
+   <crs:HueAdjustmentBlue>0</crs:HueAdjustmentBlue>\
+   <crs:HueAdjustmentPurple>0</crs:HueAdjustmentPurple>\
+   <crs:HueAdjustmentMagenta>0</crs:HueAdjustmentMagenta>\
+   <crs:SaturationAdjustmentRed>0</crs:SaturationAdjustmentRed>\
+   <crs:SaturationAdjustmentOrange>+15</crs:SaturationAdjustmentOrange>\
+   <crs:SaturationAdjustmentYellow>0</crs:SaturationAdjustmentYellow>\
+   <crs:SaturationAdjustmentGreen>+10</crs:SaturationAdjustmentGreen>\
+   <crs:SaturationAdjustmentAqua>0</crs:SaturationAdjustmentAqua>\
+   <crs:SaturationAdjustmentBlue>0</crs:SaturationAdjustmentBlue>\
+   <crs:SaturationAdjustmentPurple>0</crs:SaturationAdjustmentPurple>\
+   <crs:SaturationAdjustmentMagenta>0</crs:SaturationAdjustmentMagenta>\
+   <crs:LuminanceAdjustmentRed>0</crs:LuminanceAdjustmentRed>\
+   <crs:LuminanceAdjustmentOrange>0</crs:LuminanceAdjustmentOrange>\
+   <crs:LuminanceAdjustmentYellow>0</crs:LuminanceAdjustmentYellow>\
+   <crs:LuminanceAdjustmentGreen>0</crs:LuminanceAdjustmentGreen>\
+   <crs:LuminanceAdjustmentAqua>0</crs:LuminanceAdjustmentAqua>\
+   <crs:LuminanceAdjustmentBlue>0</crs:LuminanceAdjustmentBlue>\
+   <crs:LuminanceAdjustmentPurple>0</crs:LuminanceAdjustmentPurple>\
+   <crs:LuminanceAdjustmentMagenta>0</crs:LuminanceAdjustmentMagenta>\
+   <crs:SplitToningShadowHue>0</crs:SplitToningShadowHue>\
+   <crs:SplitToningShadowSaturation>0</crs:SplitToningShadowSaturation>\
+   <crs:SplitToningHighlightHue>0</crs:SplitToningHighlightHue>\
+   <crs:SplitToningHighlightSaturation>0</crs:SplitToningHighlightSaturation>\
+   <crs:SplitToningBalance>0</crs:SplitToningBalance>\
+   <crs:ParametricShadowsHighlightSplitTonesRatio>0</crs:ParametricShadowsHighlightSplitTonesRatio>\
+   <crs:ColorLookupFilter> </crs:ColorLookupFilter>\
+   <crs:PostCropVignetteAmount>-10</crs:PostCropVignetteAmount>\
+   <crs:GrainAmount>10</crs:GrainAmount>\
+   <crs:ProfileEmbedPolicy>EmbedAndPreserve</crs:ProfileEmbedPolicy>\
+   <crs:CameraProfile>Camera Standard</crs:CameraProfile>\
+   <crs:ConvertToGrayscale>False</crs:ConvertToGrayscale>\
+   <crs:OverrideProfileChecks>True</crs:OverrideProfileChecks>\
+   <crs:HasSettings>True</crs:HasSettings>\
+   <crs:HasCrop>False</crs:HasCrop>\
+   <crs:AlreadyApplied>False</crs:AlreadyApplied>\
+   <crs:ToneCurvePV201209Name>Medium S-Curve</crs:ToneCurvePV201209Name>\
+   <crs:ToneCurvePV201209>\
+    <rdf:Seq>\
+     <rdf:li>0, 0</rdf:li>\
+     <rdf:li>32, 38</rdf:li>\
+     <rdf:li>64, 72</rdf:li>\
+     <rdf:li>128, 134</rdf:li>\
+     <rdf:li>192, 196</rdf:li>\
+     <rdf:li>255, 255</rdf:li>\
+    </rdf:Seq>\
+   </crs:ToneCurvePV201209>\
+   <crs:CorrectionAmount>0</crs:CorrectionAmount>\
+   <crs:CorrectionActive>True</crs:CorrectionActive>\
+   <crs:DefringePurpleAmount>0</crs:DefringePurpleAmount>\
+   <crs:DefringePurpleHue>30</crs:DefringePurpleHue>\
+   <crs:DefringePurpleRedness>30</crs:DefringePurpleRedness>\
+   <crs:DefringeGreenAmount>0</crs:DefringeGreenAmount>\
+   <crs:DefringeGreenHue>60</crs:DefringeGreenHue>\
+   <crs:DefringeGreenSaturation>30</crs:DefringeGreenSaturation>\
+   <crs:LensProfileEnable>1</crs:LensProfileEnable>\
+   <crs:LensProfileSetup>Lens Defaults</crs:LensProfileSetup>\
+   <crs:LensProfileName>Adobe (Nikon NIKKOR 18-55mm f/3.5-5.6G ED AF-S DX)</crs:LensProfileName>\
+   <crs:LensProfileDistortionScale>+100</crs:LensProfileDistortionScale>\
+   <crs:LensProfileChromaticAberrationScale>+100</crs:LensProfileChromaticAberrationScale>\
+   <crs:LensProfileVignetteScale>+100</crs:LensProfileVignetteScale>\
+   <crs:PerspectiveUpright>0</crs:PerspectiveUpright>\
+   <crs:PerspectiveVertical>0</crs:PerspectiveVertical>\
+   <crs:PerspectiveHorizontal>0</crs:PerspectiveHorizontal>\
+   <crs:PerspectiveAspect>0</crs:PerspectiveAspect>\
+   <crs:PerspectiveScale>100</crs:PerspectiveScale>\
+   <crs:PerspectiveX>0.00</crs:PerspectiveX>\
+   <crs:PerspectiveY>0.00</crs:PerspectiveY>\
+   <crs:PerspectiveRoll>0</crs:PerspectiveRoll>\
+   <crs:AutoLateralCAWarm>0</crs:AutoLateralCAWarm>\
+   <crs:AutoLateralCABlue>0</crs:AutoLateralCABlue>\
+  </rdf:Description>\
+ </rdf:RDF>\
+</x:xmpmeta>\
+}
